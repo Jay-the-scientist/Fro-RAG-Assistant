@@ -1,0 +1,21 @@
+{
+  "uuid": "string",
+  "claim": "string",
+  "mechanism": "string | null",
+  "category": "Hair Biology | Damage Mechanisms | Growth & Retention | Ingredients | Practices | Myths & Clarifications",
+  "knowledge_type": "Scientific | Clinical | Community | Translational",
+  "community_terms": [
+    "string"
+  ],
+  "scientific_mappings": [
+    "string"
+  ],
+  "applicability": "string",
+  "evidence_strength": "High | Moderate | Emerging | Anecdotal",
+  "confidence_notes": "string | null",
+  "source_type": "Journal | University | Clinical Organization | Community Resource",
+  "source_institution": "string | null",
+  "source_url": "string",
+  "date_published": "YYYY-MM-DD | null",
+  "date_added": "YYYY-MM-DD"
+}
