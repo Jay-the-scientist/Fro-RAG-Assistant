@@ -6,6 +6,8 @@ The system combines structured source ingestion, ChromaDB vector search, Ollama,
 
 ![Fro App](images/fro-app.png)
 
+📊 **[View Project Presentation](https://www.linkedin.com/in/j-washington/overlay/1779217184980/single-media-viewer/?profileId=ACoAADzylKIByKGOYkhpFPXj47iJPxwPIWlz6tE)**
+
 ---
 
 ## Project Overview
