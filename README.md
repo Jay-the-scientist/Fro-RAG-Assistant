@@ -4,7 +4,7 @@ Fro is a domain-specific retrieval-augmented generation (RAG) application design
 
 The system combines structured source ingestion, ChromaDB vector search, Ollama, and a Streamlit chat interface to produce concise answers grounded in retrieved hair-care insights.
 
-![Fro App](images/app-screenshot.png)
+![Fro App](images/fro-app.png)
 
 ---
 
@@ -130,8 +130,6 @@ Responses are streamed token-by-token to the Streamlit interface.
 ---
 
 ## Streamlit Interface
-
-![Fro Chat Interface](images/chat-example.png)
 
 The application provides:
 
